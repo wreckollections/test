@@ -8,6 +8,16 @@
         "id": "https://wreckollections.github.io/test/test-a/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3818.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://wreckollections.github.io/test/annotations/test-a-canvas-1-.json",
+            "label": {
+              "none": [""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://wreckollections.github.io/test/test-a/canvas-1/paintings",
